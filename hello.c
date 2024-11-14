@@ -1,5 +1,9 @@
 #include<stdio.h>
 
 int main(){
-  printf("Hello World");
+<<<<<<< HEAD
+  printf("Bye World");
+=======
+  printf("Bye World");
+>>>>>>> testing
 }

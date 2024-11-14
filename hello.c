@@ -1,5 +1,10 @@
 #include<stdio.h>
 
 int main(){
-  printf("Hi world");
+  printf("Bye world");
+  printf("hi world");
+
+
+  
+  printf("Bye World");
 }

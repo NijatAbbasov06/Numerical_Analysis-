@@ -2,8 +2,4 @@
 
 int main(){
   printf("Hi world");
-
-  
-
-
 }
